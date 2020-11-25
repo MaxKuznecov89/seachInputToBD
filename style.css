@@ -1,0 +1,26 @@
+body{
+    background-color: green;
+    width: 1000px;
+    height: 1000px;
+}
+#myForm{
+    position:relative;
+}
+#nameInput{
+    position:absolute;
+    top:0;
+    left: 0;
+}
+#submitBtn{
+    position:absolute;
+    top:0;
+    left: 100px
+}
+#mySelect{
+    position:absolute;
+    top:20px;
+
+    display: none;
+
+}
+
